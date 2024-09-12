@@ -1,0 +1,12 @@
+.editor {
+  max-width: 60%;
+  margin: auto;
+  background-color: white;
+  border: 2px solid rgb(140, 10, 145);
+  border-radius: 10px;
+  box-shadow: rgb(79, 241, 241) 0px 22px 70px 4px;
+}
+.container {
+  height: 100vh;
+  width: 100%;
+}
